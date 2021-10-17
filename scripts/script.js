@@ -28,7 +28,7 @@ const portfolio = {
 		{"image":"blue-tin", "alt":"archives"},
 		{"image":"blue-tin-invite", "alt":"archives"}
 	],
-	"brilliant": [
+	/*"brilliant": [
 		{"image":"brilliant_dashboard", "alt":"archives"},
 		{"image":"brill_photos", "alt":"archives", "type": "gif"},
 		{"image":"brilliant_mobile", "alt":"archives"},
@@ -67,7 +67,7 @@ const portfolio = {
 	"unique": [
 		{"image":"unique", "alt":"archives"},
 		{"image":"unique_02", "alt":"archives"}
-	]
+	]*/
 }
 
 // CLASSES
