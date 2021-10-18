@@ -27,7 +27,7 @@
 html, body 	{
 	margin: 0;
 	height: 100%;
-  background-color: #ffffff;
+  background-color: #f9f5f3;
 }
 
 /* GRID-------------------------------------- */
@@ -74,7 +74,7 @@ nav {
 
 .agipo {
   font-family: 'Agipo', sans-serif;
-	color: #1f1f1f;
+	color: #93825e;
 	font-size: 1.5rem;
 }
 
@@ -86,7 +86,7 @@ nav {
 
 .miller {
 	font-family: 'Miller', serif;
-	color: #1f1f1f;
+	color: #93825e;
 	font-size: 1.5rem;
 }
 
@@ -98,7 +98,7 @@ nav {
 .mono {
   font-family: 'agipo-mono', monospace;
 	font-style: normal;
-	color: #1f1f1f;
+	color: #93825e;
 }
 
 .text {
@@ -113,12 +113,12 @@ nav {
 }
 
 .borders {
-  border-top: 2px solid #1f1f1f;
+  border-top: 2px solid #93825e;
   /* border-bottom: 1px solid black; */
 }
 
 *::selection {
-  background: #0022DE;
+  background: #93825e;
   color: white;
 }
 
@@ -128,7 +128,7 @@ a {
 }
 
 a:hover {
-	color: #0022DE;
+	color: #a3ee2a;
 }
 
 /* .arrow {cursor: e-resize;} */
@@ -147,18 +147,18 @@ nav li {
 }
 
 nav a {
-	color: #1f1f1f;
+	color: #93825e;
 	font-size: 1.9rem;	
 	position: relative;
 	text-decoration: none;
 }
 
 nav a:hover {
-	color: #1f1f1f;
+	color: #a3ee2a;
 }
 
 nav a:hover::after {
-  border-bottom: 0.12rem solid #1f1f1f;
+  border-bottom: 0.12rem solid #a3ee2a;
   content: "";
   left: 0;
   position: absolute;

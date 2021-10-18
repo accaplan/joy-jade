@@ -1,40 +1,44 @@
 const portfolio = {
-	"crg": [
-		{"image":"crg_01", "alt":"crg home"},
-		{"image":"crg_02", "alt":"crg home"},
-		{"image":"crg_readings", "alt":"crg readings"},
+	"infinite": [
+		{"image":"infinite_01", "alt":"infinite website"},
+		{"image":"infinite_02", "alt":"infinite website"},
+		{"image":"infinite_03", "alt":"infinite website"},
+		{"image":"infinite_04", "alt":"infinite website"},
+		{"image":"infinite_05", "alt":"infinite website"},
+		{"image":"infinite_06", "alt":"infinite website"}
 	],
-	"hoda": [
-		{"image":"hoda_archives", "alt":"hoda archives"},
-		{"image":"hoda_home", "alt":"hoda home"},
-		{"image":"hoda_home_2", "alt":"hoda events"},
-		{"image":"hoda_about", "alt":"hoda about"},
-		{"image":"hoda_post", "alt":"hoda post"},
-		{"image":"hoda_allarchives", "alt":"hoda all archives"},
-		{"image":"hoda_press", "alt":"hoda press"}
+	"leisure": [
+		{"image":"leisure_01", "alt":"leisure cooperative website"},
+		{"image":"leisure_02", "alt":"leisure cooperative website"},
+		{"image":"leisure_03", "alt":"leisure cooperative website"},
+		{"image":"leisure_04", "alt":"leisure cooperative website"}
 		],
-	"bwr": [
-		{"image":"bwr_mobile", "alt":"archives"},
-		{"image":"bwr_home", "alt":"archives"},
-		{"image":"bwr_guide", "alt":"archives"},
-		{"image":"bwr_bookdetails", "alt":"archives"}
+	"dense": [
+		{"image":"dense_01", "alt":"dense journal website"}
 	],
-	"cdf": [
-		{"image":"cdf-01", "alt":"archives"},
-		{"image":"cdf-02", "alt":"archives"},
-		{"image":"cdf-03", "alt":"archives"}
+	"idle": [
+		{"image":"idlehours_01", "alt":"idle hours company website"},
+		{"image":"idlehours_02", "alt":"idle hours company website"},
+		{"image":"idlehours_03", "alt":"idle hours company website"}
 		],
-	"blue_tin": [
-		{"image":"blue-tin", "alt":"archives"},
-		{"image":"blue-tin-invite", "alt":"archives"}
+	"enough": [
+		{"image":"enough_01", "alt":"enough structures website"},
+		{"image":"enough_02", "alt":"enough structures website"},
+		{"image":"enough_03", "alt":"enough structures website"},
+		{"image":"enough_04", "alt":"enough structures website"},
+		{"image":"enough_05", "alt":"enough structures website"},
+		{"image":"enough_06", "alt":"enough structures website"},
+		{"image":"enough_07", "alt":"enough structures website"},
+		{"image":"enough_08", "alt":"enough structures website"}
 	],
-	/*"brilliant": [
-		{"image":"brilliant_dashboard", "alt":"archives"},
-		{"image":"brill_photos", "alt":"archives", "type": "gif"},
-		{"image":"brilliant_mobile", "alt":"archives"},
-		{"image":"brilliant_catalog", "alt":"archives"}
+	"makespace": [
+		{"image":"makespace_01", "alt":"how to make space website"},
+		{"image":"makespace_02", "alt":"how to make space website"},
+		{"image":"makespace_03", "alt":"how to make space website"},
+		{"image":"makespace_04", "alt":"how to make space website"}
+		/*{"image":"brill_photos", "alt":"archives", "type": "gif"},*/
 	],
-	"dh": [
+	/*"dh": [
 		{"image":"dh", "alt":"archives"},
 		{"image":"dh-mobile", "alt":"archives"},
 		{"image":"dh-03", "alt":"archives"}
